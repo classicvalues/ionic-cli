@@ -39,7 +39,7 @@
     "@types/jest": "^26.0.10",
     "@types/node": "~10.17.13",
     "jest": "^26.4.2",
-    "jest-cli": "^26.0.1",
+    "jest-cli": "^28.1.2",
     "lint-staged": "^10.0.2",
     "rimraf": "^3.0.0",
     "stream-combiner2": "^1.1.1",
