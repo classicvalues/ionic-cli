@@ -82,7 +82,7 @@
     "@types/superagent-proxy": "^3.0.0",
     "@types/tar": "^4.0.0",
     "jest": "^26.4.2",
-    "jest-cli": "^26.0.1",
+    "jest-cli": "^29.4.3",
     "lint-staged": "^10.0.2",
     "rimraf": "^3.0.0",
     "source-map": "^0.7.0",
